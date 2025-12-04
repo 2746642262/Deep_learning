@@ -1,9 +1,3 @@
-这是一份为您定制的 **README.md** 文档。它完全贴合您的项目目录结构、技术栈（Mac M1 加速、Tkinter GUI、MySQL）以及团队分工。
-
-您可以直接将以下内容保存为项目根目录下的 `README.md` 文件。
-
----
-
 # 深度学习综合预测系统 (Deep Learning Integrated Prediction System)
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13.0-orange) ![PyTorch](https://img.shields.io/badge/PyTorch-MPS-red) ![Platform](https://img.shields.io/badge/Platform-macOS%20M1%2FWindows-lightgrey)
